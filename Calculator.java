@@ -6,7 +6,6 @@ public class SimpleCalculator {
     public static void main(String[] args) {
         Scanner pick = new Scanner(System.in);
         
-        
        System.out.println("#########################################################");
        System.out.println("#          S I M P L E   C A L C U L A T O R            #");
         System.out.println("            A. Addition                                 ");
