@@ -4,12 +4,7 @@ package simple.calculator;
 import java.util. Scanner;
 public class Subtraction extends Computation{
     public Subtraction() {
-        // <editor-fold defaultstate="collapsed" desc="Compiled Code">
-        /* 0: aload_0
-         * 1: invokespecial simplecalculator/Calculation."<init>":()V
-         * 4: return
-         *  */
-        // </editor-fold>
+        
     }
     
     void result(){
