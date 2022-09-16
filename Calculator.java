@@ -3,6 +3,7 @@ package simple.calculator;
 import java.util.Scanner;
 public class Division extends Computation {
     public Division() {
+        
     }
     
     void result(){
